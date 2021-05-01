@@ -1,11 +1,11 @@
 title: Shannon Matloob
 author: Shannon Matloob
 email: shannon@shannonmatloob.com
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 description: > # this means to ignore newlines until "baseurl:"
   Shannon Matloob is a web developer & content marketing specialist based in Los Angeles, CA.
 # social links
 twitter_username: shannonmatloob # DO NOT include the @ character, or else the build will fail!
-github_username:  shannonmatloob # DO NOT include the @ character, or else the build will fail!
+github_username: shannonmatloob # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
