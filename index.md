@@ -3,7 +3,7 @@ layout: default
 title: "Shannon Matloob"
 ---
 
-{% include 01-name.md %}
+{% include 01-headers.md %}
 
 <br>
 
